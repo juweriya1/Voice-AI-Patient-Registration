@@ -7,10 +7,10 @@ A full-stack, voice-based patient intake system accessible via real telephony. C
 ## Live Demo & Endpoints
 
 - **Live Phone Number:** `+1 (732) 782-5431`
-- **Web Dashboard:** [https://warned-angeles-plot-mode.trycloudflare.com/](https://warned-angeles-plot-mode.trycloudflare.com/)
-- **REST API Base URL:** `https://warned-angeles-plot-mode.trycloudflare.com`
-- **Swagger Documentation:** [https://warned-angeles-plot-mode.trycloudflare.com/docs](https://warned-angeles-plot-mode.trycloudflare.com/docs)
-- **Health Endpoint:** `https://warned-angeles-plot-mode.trycloudflare.com/health`
+- **Web Dashboard:** [https://voice-ai-patient-registration-production-92fb.up.railway.app/](https://voice-ai-patient-registration-production-92fb.up.railway.app/)
+- **REST API Base URL:** `https://voice-ai-patient-registration-production-92fb.up.railway.app`
+- **Swagger Documentation:** [https://voice-ai-patient-registration-production-92fb.up.railway.app/docs](https://voice-ai-patient-registration-production-92fb.up.railway.app/docs)
+- **Health Endpoint:** `https://voice-ai-patient-registration-production-92fb.up.railway.app/health`
 
 ---
 
